@@ -1,0 +1,9 @@
+Best index: 14, best_trucks: 11, best_D: 846609, ./data/json/output/2023-04-17-output-MB.xlsx
+Best index: 6, best_trucks: 10, best_D: 742212, ./data/json/output/2023-04-18-output-MB.xlsx
+Best index: 6, best_trucks: 10, best_D: 742212, ./data/json/output/2023-04-19-output-MB.xlsx
+Best index: 0, best_trucks: 8, best_D: 610317, ./data/json/output/2023-04-20-output-MB.xlsx
+Best index: 7, best_trucks: 10, best_D: 742212, ./data/json/output/2023-04-18-output-MB.xlsx
+Best index: 12, best_trucks: 10, best_D: 749344, ./data/json/output/2023-04-19-output-MB.xlsx
+Best index: 17, best_trucks: 8, best_D: 609264, ./data/json/output/2023-04-20-output-MB.xlsx
+Best index: 7, best_trucks: 10, best_D: 739238, ./data/json/output/2023-04-21-output-MB.xlsx
+Best index: 0, best_trucks: 7, best_D: 683864, ./data/json/output/2023-04-17-output-MB-1.xlsx
